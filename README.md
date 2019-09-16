@@ -1,4 +1,4 @@
-# mde-web-embed
+# mde-web-embed-mobile
 
 Markdown editor across Desktop / Web / App platform.
 
