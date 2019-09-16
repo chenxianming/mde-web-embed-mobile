@@ -6,7 +6,7 @@ Markdown editor across Desktop / Web / App platform.
 
 **1. Download build path**
 
-[https://github.com/chenxianming/mde-web-embed-pc/releases/download/Beta/mde.zip](https://github.com/chenxianming/mde-web-embed-pc/releases/download/Beta/mde.zip "https://github.com/chenxianming/mde-web-embed-pc/releases/download/Beta/mde.zip")
+[https://github.com/chenxianming/mde-web-embed-mobile/releases/download/mde/mde.zip](https://github.com/chenxianming/mde-web-embed-mobile/releases/download/mde/mde.zip "https://github.com/chenxianming/mde-web-embed-mobile/releases/download/mde/mde.zip")
 
 
 **2. Put on any web path**
